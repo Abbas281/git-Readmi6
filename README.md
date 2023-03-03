@@ -1,12 +1,12 @@
 > ## Windows
 
- ![](/images/Rectangle%208.png)
+ ![](/images/git1.png)
 
 > ## What is Dom in javascript ?
 
  >The Document Object Model (DOM) is a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page.
 
-  ![](/images/Screenshot_6.png)
+  ![](/images/git3.png)
 
 > There are two basic methods in js :
 
@@ -26,7 +26,7 @@
 
  >События HTML — это специальные глобальные атрибуты, используемые в тегах для вызова обработчиков событий, написанных на различных языках сценариев таких, как JavaScript и вызываемых, когда на странице происходит какое-либо действие. События позволяют сделать вашу страницу динамической.
 
- ![](/images/Screenshot_9.png)
+ ![](/images/git2.png)
 
  >#### creatElement() 
 
